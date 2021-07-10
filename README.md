@@ -1,5 +1,5 @@
 <a href="https://lokimckay.com">
-  <img align="right" width="420" height="245" src="./bull-walk.gif">
+  <img align="left" width="300" height="217" src="./bull-walk.gif">
 </a>
 
 ### Loki McKay 🐉
