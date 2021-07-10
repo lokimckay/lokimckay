@@ -1,3 +1,7 @@
+<a href="https://lokimckay.com">
+  <img align="right" width="420" height="245" src="./bull.gif">
+</a>
+
 ### Loki McKay 🐉
 
 Tech Artist  
