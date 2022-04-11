@@ -7,7 +7,7 @@
 Tech Artist  
 6 years industry experience
 
-> I love creating visceral digital experiences
+> Fusing art and code into visceral digital experiences
 
 ⭐ [lokimckay.com](https://lokimckay.com)  
 ✉️ [lokimckay@gmail.com](mailto:lokimckay@gmail.com)
