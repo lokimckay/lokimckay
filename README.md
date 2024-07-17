@@ -4,8 +4,7 @@
 
 ### Loki McKay 🐉
 
-Tech Artist  
-6 years industry experience
+Tech & Art
 
 > Fusing art and code into visceral digital experiences
 
