@@ -8,5 +8,5 @@ Tech & Art
 
 > Fusing art and code into visceral digital experiences
 
-⭐ [lokimckay.com](https://lokimckay.com)  
+⭐ [ltm.bio](https://ltm.bio)  
 ✉️ [lokimckay@gmail.com](mailto:lokimckay@gmail.com)
